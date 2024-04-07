@@ -36,7 +36,7 @@ int main()
     findContours(edges.clone(), contours, hierarchy, RETR_EXTERNAL, CHAIN_APPROX_SIMPLE);
     Mat contour_image = Mat::zeros(image.size(), CV_8UC3);
     drawShapesWithLabels(contours, contour_image);
-    imshow("Contours with Shapes", contour_image);
+    imshow("Contours", contour_image);
     waitKey(0);
     return 0;
 }
