@@ -4,4 +4,5 @@
 ![image](https://github.com/leha123456789/practic_opencv_19_03_zad3/assets/19330391/9cac8143-471b-4901-a48d-796ecc2cb558)
 
 
-![image](https://github.com/leha123456789/practic_opencv_19_03_zad3/assets/19330391/38b7780d-35d6-4954-ac61-ab5e03217404)
+![image](https://github.com/leha123456789/practic_opencv_19_03_zad3/assets/19330391/1871f462-815b-4b8d-8d8f-986c89d2682b)
+
